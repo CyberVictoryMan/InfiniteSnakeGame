@@ -1,2 +1,0 @@
-# InfiniteSnakeGame
-nothin hehe
